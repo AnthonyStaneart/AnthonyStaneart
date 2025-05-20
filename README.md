@@ -39,7 +39,7 @@ These labs simulate **real enterprise scenarios**, making this a practical showc
 
 ## 📬 Connect With Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/anthonystaneart)
+- <a href="https://www.linkedin.com/in/anthonystaneart">🌐 [LinkedIn]</a>
 
 ---
 
