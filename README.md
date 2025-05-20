@@ -43,6 +43,6 @@ These labs simulate **real enterprise scenarios**, making this a practical showc
 
 ---
 
-> *“If it's endurable, then endure it. Stop complaining.” — This mindset guides my approach to cybersecurity and technical documentation.*
+> *“If it's endurable, then endure it. Stop complaining.” — This mindset guides my approach to cybersecurity.*
 
 ---
