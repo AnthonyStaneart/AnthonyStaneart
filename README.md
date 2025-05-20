@@ -4,16 +4,16 @@ Welcome! I'm **Anthony Staneart**, a cybersecurity enthusiast and graduate stude
 
 This portfolio showcases hands-on cybersecurity projects I’ve built from scratch. These include practical simulations of firewalls, network monitoring, endpoint detection, and CTFs. I hope you enjoy these projects as much as I did!
 
----https://github.com/AnthonyStaneart/wireshark-packet-analysis [🦈 
+---https://github.com/AnthonyStaneart/overthewire-bandit [🎯
 
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| <a href="https://github.com/AnthonyStaneart/network-segmentation-pfsense/blob/main/README.md">[🔒 Network Segmentation Lab]</a> | Segmented a home network using pfSense into LAN/DMZ/Guest and enforced access control. Includes Nmap & Wireshark validation. | pfSense, Nmap, Wireshark |
+| <a href="https://github.com/AnthonyStaneart/network-segmentation-pfsense">[🔒 Network Segmentation Lab]</a> | Segmented a home network using pfSense into LAN/DMZ/Guest and enforced access control. Includes Nmap & Wireshark validation. | pfSense, Nmap, Wireshark |
 | <a href="https://github.com/AnthonyStaneart/edr-splunk-lab">[🔵 Team Vs. 🔴 Team]</a> | Simulated attacks from Kali against Windows 10 and detected them with Splunk SIEM. ATT&CK-mapped detections and alerts. | Splunk, Windows, Sysmon, MITRE ATT&CK |
 | <a href="https://github.com/AnthonyStaneart/wireshark-packet-analysis">[🦈 Wireshark Packet Analysis]</a> | Captured real traffic and performed forensic analysis on .pcap files including port scans and malware payloads. | Wireshark, TCPDump, Python |
-| [🎯 OverTheWire CTF Guide](./overthewire-bandit/README.md) | Bandit levels 0–20 walkthrough. Solved Linux CLI puzzles and demonstrated scripting, enumeration, and privilege escalation logic. | Linux CLI, Bash, Netcat |
+| <a href="ttps://github.com/AnthonyStaneart/overthewire-bandit">[🎯 OverTheWire CTF Guide]</a> | Bandit levels 0–20 walkthrough. Solved Linux CLI puzzles and demonstrated scripting, enumeration, and privilege escalation logic. | Linux CLI, Bash, Netcat |
 
 ---
 
