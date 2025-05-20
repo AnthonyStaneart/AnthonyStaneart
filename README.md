@@ -4,7 +4,7 @@ Welcome! I'm **Anthony Staneart**, a cybersecurity enthusiast and graduate stude
 
 This portfolio showcases hands-on cybersecurity projects I’ve built from scratch. These include practical simulations of firewalls, network monitoring, endpoint detection, and CTFs. I hope you enjoy these projects as much as I did!
 
----https://github.com/AnthonyStaneart/overthewire-bandit [🎯
+---
 
 ## 🚀 Featured Projects
 
