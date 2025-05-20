@@ -21,7 +21,7 @@ This portfolio showcases hands-on cybersecurity projects I’ve built from scrat
 
 - 💻 **M.S. in Information Systems**, CSULB *(Expected 2026)*
 - 🛡️ Coursework: Information Systems Security and Assurance, Cybersecurity Analytics, and Responsible Artificial Intelligence 
-- ✈️ Former **AFROTC Cadet Instructor** – 2 years of Air & Space Force Experience.
+- ✈️ Former **AFROTC Cadet Instructor** – 2 years of Air & Space Force Reserve Officer Training Corps Experience.
 
 ---
 
