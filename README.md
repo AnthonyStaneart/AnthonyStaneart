@@ -10,7 +10,7 @@ This portfolio showcases hands-on cybersecurity projects I’ve built from scrat
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [🔒 Network Segmentation Lab](./network-segmentation-pfsense/README.md) | Segmented a home network using pfSense into LAN/DMZ/Guest and enforced access control. Includes Nmap & Wireshark validation. | pfSense, Nmap, Wireshark |
+| [🔒 Network Segmentation Lab](https://github.com/AnthonyStaneart/network-segmentation-pfsense/blob/main/README.md | Segmented a home network using pfSense into LAN/DMZ/Guest and enforced access control. Includes Nmap & Wireshark validation. | pfSense, Nmap, Wireshark |
 | [💻 Blue Team Vs. Red Team](./edr-splunk-lab/README.md) | Simulated attacks from Kali against Windows 10 and detected them with Splunk SIEM. ATT&CK-mapped detections and alerts. | Splunk, Windows, Sysmon, MITRE ATT&CK |
 | [🦈 Wireshark Packet Analysis](./wireshark-packet-analysis/README.md) | Captured real traffic and performed forensic analysis on .pcap files including port scans and malware payloads. | Wireshark, TCPDump, Python |
 | [🎯 OverTheWire CTF Guide](./overthewire-bandit/README.md) | Bandit levels 0–20 walkthrough. Solved Linux CLI puzzles and demonstrated scripting, enumeration, and privilege escalation logic. | Linux CLI, Bash, Netcat |
