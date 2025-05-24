@@ -1,4 +1,4 @@
-# Anthony Staneart – Cybersecurity Portfolio ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyStaneart/cybersecurity-portfolio?style=flat-square)
+# Anthony Staneart – Project Portfolio ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyStaneart/cybersecurity-portfolio?style=flat-square)
 
 Welcome! I'm **Anthony Staneart**, a cybersecurity enthusiast and graduate student pursuing an M.S. in Information Systems at **California State University, Long Beach**. My background includes serving as a **former AFROTC Cadet Instructor**, where I developed strong leadership, discipline, and team coordination skills.
 
